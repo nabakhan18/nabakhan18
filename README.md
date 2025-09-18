@@ -34,17 +34,11 @@ Welcome to Naba Zahid Khan's profile!  👋
 
 <p align="left"> 
 <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
-
 <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
@@ -62,14 +56,6 @@ Welcome to Naba Zahid Khan's profile!  👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabakhan18&layout=compact&theme=tokyonight" alt="nabakhan18 top languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=nabakhan18&theme=dracula" alt="nabakhan18 trophies"/>
 </p>
 
 ---
