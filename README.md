@@ -1,7 +1,8 @@
 
 Welcome to Naba Zahid Khan's profile!  👋
+
 <h1 align="center">Hi 👋, I'm Naba Zahid Khan</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Backend Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabakhan18&label=Profile%20views&color=0e75b6&style=flat" alt="nabakhan18" /> 
@@ -11,8 +12,7 @@ Welcome to Naba Zahid Khan's profile!  👋
 
 ### 👨‍💻 About Me  
 - 🔭 I’m currently working on **Register-Login-Logout Authentication API**  
-- 🌱 I’m learning **Flutter + Laravel Advanced Integrations**  
-- 👯 I’m looking to collaborate on **Open-source Laravel/Flutter projects**  
+- 👯 I’m looking to collaborate on **Open-source Laravel projects**  
 - 💬 Ask me about **PHP, Laravel, Flutter, API Development**  
 - 📫 How to reach me: **nabazahid9@gmail.com**  
 
@@ -34,11 +34,17 @@ Welcome to Naba Zahid Khan's profile!  👋
 
 <p align="left"> 
 <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
+
 <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
