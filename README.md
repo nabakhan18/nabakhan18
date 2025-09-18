@@ -1,16 +1,72 @@
-## Hi there 👋
 
-<!--
-**nabakhan18/nabakhan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Naba Zahid Khan's profile!  👋
+<h1 align="center">Hi 👋, I'm Naba Zahid Khan</h1>
+<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nabakhan18&label=Profile%20views&color=0e75b6&style=flat" alt="nabakhan18" /> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me  
+- 🔭 I’m currently working on **Register-Login-Logout Authentication API**  
+- 🌱 I’m learning **Flutter + Laravel Advanced Integrations**  
+- 👯 I’m looking to collaborate on **Open-source Laravel/Flutter projects**  
+- 💬 Ask me about **PHP, Laravel, Flutter, API Development**  
+- 📫 How to reach me: **nabazahid9@gmail.com**  
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="left">
+<a href="https://github.com/nabakhan18" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/your-instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+<a href="mailto:nabazahid9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools  
+
+<p align="left"> 
+<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabakhan18&show_icons=true&theme=radical" alt="nabakhan18 stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabakhan18&theme=dark" alt="nabakhan18 streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabakhan18&layout=compact&theme=tokyonight" alt="nabakhan18 top languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=nabakhan18&theme=dracula" alt="nabakhan18 trophies"/>
+</p>
+
+---
+
+✍️ *"Passionate about building real-world solutions with clean and efficient code!"*
+
