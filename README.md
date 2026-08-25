@@ -75,21 +75,7 @@ A backend authentication system implementing secure user registration, login, lo
 
 ---
 
-### 🏢 University Management System
-
-A web-based management system designed to manage university-related data and streamline administrative operations.
-
-**Tech:** PHP · Laravel · MySQL · JavaScript
-
----
-
-### 🧏 Sign Language Assistance Application
-
-An application concept focused on improving accessibility for deaf and hard-of-hearing users by converting text-based information into understandable sign-language animations.
-
-**Tech:** AI · NLP · Computer Vision · Animation · Mobile/Web Technologies
-
----
+### 🏢 University Management 
 
 ## 🛠️ Technical Skills
 
