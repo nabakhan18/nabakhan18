@@ -1,6 +1,6 @@
 # Hi 👋, I'm Naba Zahid Khan
 
-### 💻 Computer Science Graduate | AI/ML & Backend Developer | Intelligent Automation Enthusiast
+### 💻 Computer Science Graduate to be 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabakhan18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -19,13 +19,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate passionate about building **intelligent software, AI-powered applications, backend systems, and automation solutions**.
+I'm a Computer Science graduate passionate about building **intelligent software, AI-powered applications, backend systems**.
 
-My interests span from traditional software engineering to modern AI technologies, including **Machine Learning, Deep Learning, LLMs, NLP, RAG systems, Vector Databases, AI assistants, and workflow automation**.
+My interests span from traditional software engineering to modern AI technologies, including **Machine Learning, Deep Learning, AI assistants, and workflow automation**.
 
 * 🔭 Currently building **AI-powered applications and backend systems**
 * 🤖 Interested in **Generative AI, LLMs, RAG & AI Agents**
-* 🧠 Exploring **Machine Learning, Deep Learning & NLP**
 * ⚙️ Building automation workflows using **n8n**
 * 🌐 Experienced in **Backend & API Development**
 * 💡 Interested in solving real-world problems through technology
@@ -40,7 +39,7 @@ My interests span from traditional software engineering to modern AI technologie
 
 An intelligent assistant designed to understand user queries and perform useful tasks through AI-powered interactions.
 
-**Tech:** Python · LLMs · NLP · APIs · Automation
+**Tech:** Python · APIs · Automation
 
 ---
 
