@@ -42,15 +42,7 @@ Welcome to Naba Zahid Khan's profile!  👋
 
 ---
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabakhan18&show_icons=true&theme=radical" alt="nabakhan18 stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabakhan18&theme=dark" alt="nabakhan18 streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabakhan18&layout=compact&theme=tokyonight" alt="nabakhan18 top languages" />
