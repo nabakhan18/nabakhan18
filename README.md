@@ -33,53 +33,7 @@ My interests span from traditional software engineering to modern AI technologie
 
 ---
 
-## 🚀 Featured Projects
 
-### 🤖 AI-Powered Personal Assistant
-
-An intelligent assistant designed to understand user queries and perform useful tasks through AI-powered interactions.
-
-**Tech:** Python · APIs · Automation
-
----
-
-### 🧠 RAG-Based Question Answering System
-
-A Retrieval-Augmented Generation application that retrieves relevant information from a knowledge base and generates context-aware responses.
-
-**Tech:** Python · LLMs · RAG · Vector Database · NLP
-
----
-
-### 🗣️ AI Voice Assistant
-
-An AI-powered voice interaction system capable of processing speech, understanding user queries, and generating intelligent responses.
-
-**Tech:** Python · Speech Recognition · LLMs · APIs · NLP
-
----
-
-### ⚙️ AI Automation Workflows
-
-Automated workflows designed to connect applications, process information, generate responses, and reduce repetitive manual tasks.
-
-**Tech:** n8n · APIs · Python · AI/LLMs · Webhooks
-
----
-
-### 🔐 Register / Login / Logout Authentication API
-
-A backend authentication system implementing secure user registration, login, logout, validation, and API-based authentication.
-
-**Tech:** PHP · Laravel · MySQL · REST API
-
----
-
-### 🏢 University Management 
-
-## 🛠️ Technical Skills
-
-### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,javascript" />
